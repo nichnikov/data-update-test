@@ -1,0 +1,726 @@
+{
+    "greetings": {
+        "answers_index": "answers",
+        "appendix": 111100000,
+        "clusters_index": "greetings",
+        "LemDocName": false,
+        "LemShortAnswerText": false,
+        "stopwords_files": [
+        ],
+        "sys_files_pubs": {
+            "1": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    9,
+                    6,
+                    8,
+                    188,
+                    220,
+                    24,
+                    186,
+                    215,
+                    69
+                ]
+            },
+            "10": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    51,
+                    53,
+                    52,
+                    212,
+                    225
+                ]
+            },
+            "11": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    54,
+                    55,
+                    206,
+                    233
+                ]
+            },
+            "13": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    59,
+                    60,
+                    234,
+                    281
+                ]
+            },
+            "14": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    62,
+                    61,
+                    63,
+                    91,
+                    195,
+                    226
+                ]
+            },
+            "15": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    21,
+                    25,
+                    49,
+                    194,
+                    224,
+                    255
+                ]
+            },
+            "16": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    72,
+                    71,
+                    73,
+                    217
+                ]
+            },
+            "2": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    10,
+                    12,
+                    16,
+                    58,
+                    189,
+                    191,
+                    222
+                ]
+            },
+            "21": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    85,
+                    86,
+                    277
+                ]
+            },
+            "22": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    87,
+                    88,
+                    89
+                ]
+            },
+            "27": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    93,
+                    94,
+                    208,
+                    205
+                ]
+            },
+            "28": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    95,
+                    96,
+                    207,
+                    229
+                ]
+            },
+            "3": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    11,
+                    22,
+                    17,
+                    192,
+                    193,
+                    223
+                ]
+            },
+            "34": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    35,
+                    210,
+                    209,
+                    203
+                ]
+            },
+            "37": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    66,
+                    183,
+                    211,
+                    232,
+                    247
+                ]
+            },
+            "4": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    14,
+                    249,
+                    190,
+                    221
+                ]
+            },
+            "45": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    204,
+                    250,
+                    235,
+                    270
+                ]
+            },
+            "47": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108,
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133,
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141,
+                    142,
+                    143,
+                    144,
+                    145,
+                    146,
+                    147,
+                    148,
+                    149,
+                    150,
+                    151,
+                    152,
+                    153,
+                    154,
+                    155,
+                    404,
+                    405,
+                    406,
+                    407,
+                    408,
+                    409,
+                    410,
+                    411,
+                    412,
+                    413,
+                    414,
+                    476,
+                    477,
+                    339,
+                    621,
+                    622,
+                    623,
+                    624,
+                    625,
+                    626,
+                    627,
+                    628,
+                    629,
+                    630,
+                    631,
+                    642,
+                    650,
+                    653,
+                    654,
+                    674,
+                    675,
+                    676,
+                    677,
+                    678,
+                    683,
+                    684,
+                    685,
+                    686,
+                    688,
+                    687,
+                    689
+                ]
+            },
+            "50": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    239,
+                    240,
+                    248,
+                    254,
+                    241
+                ]
+            },
+            "51": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    251,
+                    252,
+                    253,
+                    256,
+                    258
+                ]
+            },
+            "54": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    259,
+                    262,
+                    263,
+                    269
+                ]
+            },
+            "55": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    260,
+                    266,
+                    268,
+                    267
+                ]
+            },
+            "8": {
+                "file_name": "greetings_templates.csv",
+                "pubs": [
+                    67,
+                    68,
+                    79,
+                    196,
+                    200
+                ]
+            }
+        }
+    },
+    "templates": {
+        "answers_index": "answers",
+        "appendix": 100000000,
+        "clusters_index": "clusters",
+        "LemDocName": false,
+        "LemShortAnswerText": false,
+        "stopwords_files": [
+            "greetings_stopwords.csv",
+            "stopwords.csv"
+        ],
+        "sys_files_pubs": {
+            "1": {
+                "file_name": "templates_sys1.csv",
+                "pubs": [
+                    9,
+                    6,
+                    8,
+                    188,
+                    220,
+                    24,
+                    186,
+                    215,
+                    69,
+                    632,
+                    633,
+                    634,
+                    635,
+                    636,
+                    637,
+                    638,
+                    639,
+                    640,
+                    641,
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108,
+                    114,
+                    115,
+                    118,
+                    124,
+                    126,
+                    127,
+                    128
+                ]
+            },
+            "10": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    51,
+                    53,
+                    52,
+                    212,
+                    225,
+                    138,
+                    139,
+                    140
+                ]
+            },
+            "11": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    54,
+                    55,
+                    206,
+                    233
+                ]
+            },
+            "13": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    59,
+                    60,
+                    234,
+                    281,
+                    154
+                ]
+            },
+            "14": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    62,
+                    61,
+                    63,
+                    91,
+                    195,
+                    226,
+                    141,
+                    143,
+                    144,
+                    339
+                ]
+            },
+            "15": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    21,
+                    25,
+                    49,
+                    194,
+                    224,
+                    255,
+                    112,
+                    119,
+                    136,
+                    145,
+                    146,
+                    147,
+                    148
+                ]
+            },
+            "16": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    72,
+                    71,
+                    73,
+                    217
+                ]
+            },
+            "2": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    10,
+                    12,
+                    16,
+                    58,
+                    189,
+                    191,
+                    222,
+                    110,
+                    113,
+                    149
+                ]
+            },
+            "21": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    85,
+                    86,
+                    277
+                ]
+            },
+            "22": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    87,
+                    88,
+                    89
+                ]
+            },
+            "27": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    93,
+                    94,
+                    208,
+                    205,
+                    150,
+                    642
+                ]
+            },
+            "28": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    95,
+                    96,
+                    207,
+                    229,
+                    151,
+                    152,
+                    153
+                ]
+            },
+            "3": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    11,
+                    22,
+                    17,
+                    192,
+                    193,
+                    223,
+                    111,
+                    117,
+                    120,
+                    121,
+                    122
+                ]
+            },
+            "34": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    35,
+                    210,
+                    209,
+                    203,
+                    625,
+                    626,
+                    627,
+                    628,
+                    629,
+                    631,
+                    683,
+                    684,
+                    685,
+                    686
+                ]
+            },
+            "37": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    66,
+                    183,
+                    211,
+                    232,
+                    247
+                ]
+            },
+            "4": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    14,
+                    249,
+                    190,
+                    221,
+                    109,
+                    125
+                ]
+            },
+            "45": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    204,
+                    250,
+                    235,
+                    270,
+                    116,
+                    123
+                ]
+            },
+            "47": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108,
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133,
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141,
+                    142,
+                    143,
+                    144,
+                    145,
+                    146,
+                    147,
+                    148,
+                    149,
+                    150,
+                    151,
+                    152,
+                    153,
+                    154,
+                    155,
+                    404,
+                    405,
+                    406,
+                    407,
+                    408,
+                    409,
+                    410,
+                    411,
+                    412,
+                    413,
+                    414,
+                    476,
+                    477,
+                    339,
+                    621,
+                    622,
+                    623,
+                    624,
+                    625,
+                    626,
+                    627,
+                    628,
+                    629,
+                    630,
+                    631,
+                    642,
+                    650,
+                    653,
+                    654,
+                    674,
+                    675,
+                    676,
+                    677,
+                    678,
+                    683,
+                    684,
+                    685,
+                    686,
+                    688,
+                    687,
+                    689
+                ]
+            },
+            "50": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    239,
+                    240,
+                    248,
+                    254,
+                    241
+                ]
+            },
+            "51": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    251,
+                    252,
+                    253,
+                    256,
+                    258
+                ]
+            },
+            "54": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    259,
+                    262,
+                    263,
+                    269
+                ]
+            },
+            "55": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    260,
+                    266,
+                    268,
+                    267
+                ]
+            },
+            "8": {
+                "file_name": "templates_all_sys.csv",
+                "pubs": [
+                    67,
+                    68,
+                    79,
+                    196,
+                    200,
+                    133
+                ]
+            }
+        }
+    }
+}
